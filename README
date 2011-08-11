@@ -1,0 +1,6 @@
+== SpeedControl
+
+A little tool to control the speed of DVD-drives. Since a while the code found his way into hdparm, but as there are still active users of the original version I put this here. 
+Please keep in mind that some controllers have buggy version and so the tool might not work in all hardware setups.
+
+The source is freely available under GNU and MIT license. 
